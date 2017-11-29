@@ -1,0 +1,47 @@
+id,title,department,location,salary_min,salary_max,priority
+34831,Financial Analyst,IT & Corporate,"Boston, Massachusetts",55000,62000,
+34832,Senior Automation & Controls Engineer,Product Engineering,"New York, New York",65000,80000,True
+34833,"Regional Lead, Director",Corporate Strategy,"Tampa, Florida",80000,90000,True
+34834,Vice President,IT & Corporate,"Chicago, Illinois",80000,86000,False
+34835,Senior Buyer,Corporate Strategy,"Tampa, Florida",75000,90000,True
+34836,Group Product Director,Product Analytics,"New York, New York",70000,77000,
+34837,Vice President,IT & Corporate,"Chicago, Illinois",55000,60000,True
+34838,Software Engineer,Product Engineering,"New York, New York",80000,86000,True
+34839,Senior Project Manager,Product Engineering,"Chicago, Illinois",70000,81000,True
+34840,Senior Talent Acquisition Partner,IT & Corporate,"Chicago, Illinois",40000,54000,
+34841,Senior Buyer,Corporate Strategy,"Tampa, Florida",55000,63000,
+34842,Group Product Director,Product Analytics,"Chicago, Illinois",90000,104000,
+34843,Manager Software Quality Assurance,Product Engineering,"Chicago, Illinois",85000,99000,True
+34844,Manager Software Quality Assurance,Product Engineering,"New York, New York",40000,55000,False
+34845,IT Project Manager,IT & Corporate,"Chicago, Illinois",50000,56000,False
+34846,Financial Analyst,IT & Corporate,"Chicago, Illinois",90000,98000,
+34847,IT Project Manager,IT & Corporate,"Chicago, Illinois",75000,88000,True
+34848,Software Engineer,Product Engineering,"Chicago, Illinois",100000,115000,
+34849,Senior Automation & Controls Engineer,Product Engineering,"Boston, Massachusetts",40000,47000,
+34850,Sr. Director Global Brand Equity,Business Development,"Chicago, Illinois",40000,51000,False
+34851,HR Manager,IT & Corporate,"New York, New York",70000,84000,
+34852,Sales Manager,Business Development,"New York, New York",85000,100000,
+34853,Senior Computer Scientist,Product Engineering,"New York, New York",50000,61000,
+34854,Senior Talent Acquisition Partner,IT & Corporate,"Chicago, Illinois",50000,60000,
+34855,Business Development Manager,Business Development,"New York, New York",45000,54000,
+34856,"Assistant Manager, Product Marketing",Marketing Analytics,"Chicago, Illinois",95000,108000,
+34857,Group Product Director,Product Analytics,"Tampa, Florida",75000,87000,False
+34858,HR Manager,IT & Corporate,"New York, New York",80000,85000,
+34859,Associate Sales Representative,Business Development,"Chicago, Illinois",45000,54000,False
+34860,Sr. Director Global Brand Equity,Business Development,"Boston, Massachusetts",95000,106000,
+34861,"Manager, Pricing Analytics",Marketing Analytics,"New York, New York",90000,98000,
+34862,Sales Manager,Business Development,"New York, New York",90000,99000,False
+34863,IT Project Manager,IT & Corporate,"New York, New York",65000,74000,
+34864,Software Engineer,Product Engineering,"New York, New York",60000,74000,False
+34865,Senior Computer Scientist,Product Engineering,"Boston, Massachusetts",75000,90000,
+34866,Group Product Director,Product Analytics,"New York, New York",55000,66000,
+34867,Software Engineer,Product Engineering,"Chicago, Illinois",85000,98000,
+34868,Associate Sales Representative,Business Development,"Chicago, Illinois",70000,83000,
+34869,Global Talent Recruitment Specialist,IT & Corporate,"Chicago, Illinois",90000,100000,True
+34870,Counsel,IT & Corporate,"New York, New York",80000,85000,True
+34871,Senior Software Engineer,Product Engineering,"New York, New York",65000,77000,
+34872,"Regional Lead, Director",Corporate Strategy,"Chicago, Illinois",65000,80000,True
+34873,Global Talent Recruitment Specialist,IT & Corporate,"Boston, Massachusetts",85000,99000,False
+34874,Counsel,IT & Corporate,"Chicago, Illinois",75000,83000,
+34875,"Business Lead, Analytics & Integration",Business Development,"Tampa, Florida",90000,102000,
+34876,Senior Project Manager,Product Engineering,"Chicago, Illinois",85000,90000,True

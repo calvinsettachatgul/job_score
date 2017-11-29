@@ -1,0 +1,525 @@
+id,name_first,name_last,salary,department,high_risk,time_in_role,location
+30401,Salvador,Norris,91000,Product Analytics,False,5.4,
+30402,Vera,Schneider,96000,Marketing Analytics,,0.3,"Tampa, Florida"
+30403,Barbara,Anderson,93000,Product Analytics,True,9,
+30404,Ron,Sutton,80000,Product Engineering,False,7.4,"New York, New York"
+30405,Darrell,Powers,73000,Product Analytics,,6.5,"Dallas, Texas"
+30406,Essie,Barton,76000,Marketing Analytics,,4.2,"Tampa, Florida"
+30407,Viola,Pope,91000,Product Analytics,,5.5,"Tampa/St. Petersburg, Florida Area"
+30408,Denise,Montgomery,50000,Product Analytics,,4.9,"New York, New York"
+30409,Dawn,Sandoval,69000,Product Analytics,,7.9,"Chicago, Illinois"
+30410,Damon,Mcdonald,86000,Product Engineering,,5.8,"Dallas, Texas"
+30411,Gene,Young,98000,Marketing Analytics,True,4.2,
+30412,Kurt,Martinez,51000,Business Development,True,0.8,"Tampa, Florida"
+30413,Beulah,White,53000,Product Analytics,True,8,"Dallas, Texas"
+30414,Jacob,Green,69000,Product Engineering,,9.7,
+30415,Meghan,Allen,94000,Business Development,,4.7,
+30416,Glen,Fletcher,53000,Product Engineering,,5.1,"Tampa, Florida"
+30417,Beth,Spencer,55000,Corporate Strategy,True,0.9,
+30418,Helen,Brock,82000,Marketing Analytics,,8.4,"Tampa, Florida"
+30419,Lucille,Becker,85000,Product Engineering,,7.3,
+30420,Bernard,Love,62000,Corporate Strategy,True,4.9,"New York, New York"
+30421,Clarence,Pierce,66000,Marketing Analytics,True,5.3,
+30422,Vernon,Simon,62000,Product Analytics,True,2.9,"New York, New York"
+30423,Doris,Strickland,84000,Partnerships,True,1.3,"New York, New York"
+30424,Cody,Pena,65000,Business Development,,3,"New York, New York"
+30425,Florence,Tyler,58000,Technology,,4.7,"New York, New York"
+30426,Albert,Goodman,58000,Technology,False,8.5,"Tampa, Florida"
+30427,Jeff,Walton,87000,Technology,,9,"Boston, Massachusetts"
+30428,Roberto,Pearson,55000,Technology,,4.6,
+30429,Irvin,Benson,74000,Technology,True,9.1,"New York, New York"
+30430,Theresa,Miller,88000,Technology,,10,
+30431,Pearl,Zimmerman,57000,Technology,False,5.8,
+30432,Latoya,Reyes,56000,Technology,,4.8,"San Francisco, California"
+30433,Daisy,Hayes,72000,Technology,False,2.6,
+30434,Jack,Johnston,95000,Technology,True,1.4,"Chicago, Illinois"
+30435,Ramiro,Owens,72000,IT & Corporate,True,5.2,"Cincinnati, Ohio"
+30436,Eunice,Rodriguez,59000,IT & Corporate,,9.6,"Dallas, Texas"
+30437,Meredith,Obrien,79000,IT & Corporate,False,7.3,
+30438,Salvatore,Mcgee,65000,IT & Corporate,True,6.5,"San Francisco, California"
+30439,Ivan,Fisher,77000,IT & Corporate,,4.2,"Chicago, Illinois"
+30440,Javier,Adams,95000,IT & Corporate,,2.6,
+30441,Sally,Parker,85000,Product Analytics,False,9.1,
+30442,Manuel,Pittman,80000,Marketing Analytics,True,4,
+30443,Eric,Summers,57000,Product Analytics,True,0.3,
+30444,Randall,Mckinney,59000,Product Engineering,,6,"New York, New York"
+30445,Gina,Sanders,80000,Product Analytics,,9.5,"Tampa, Florida"
+30446,Daryl,West,89000,Marketing Analytics,,2.2,
+30447,Vicki,Lee,98000,Product Analytics,,5.7,"New York, New York"
+30448,Forrest,Robinson,51000,Product Analytics,True,1,"Tampa, Florida"
+30449,Elvira,Stevens,50000,Product Analytics,True,6.1,"Chicago, Illinois"
+30450,Ernestine,Gomez,69000,Product Engineering,True,3.3,"New York, New York"
+30451,Brad,Moran,60000,Marketing Analytics,True,2.8,"Chicago, Illinois"
+30452,Carol,Murray,55000,Business Development,,8.8,
+30453,Billy,Francis,52000,Product Analytics,,1.3,
+30454,Alfredo,Smith,80000,Product Engineering,,4.9,
+30455,Leroy,Miles,85000,Business Development,True,6.9,
+30456,Julia,Hampton,84000,Product Engineering,True,2.5,"Philadelphia, Pennsylvania"
+30457,Beulah,Bates,58000,Corporate Strategy,True,5.4,
+30458,Lori,Thornton,54000,Marketing Analytics,,5.5,"San Francisco, California"
+30459,Hannah,Watkins,98000,Product Engineering,,6.4,
+30460,Cedric,Bryant,96000,Corporate Strategy,,1.7,"New York, New York"
+30461,Bernice,Chambers,90000,Marketing Analytics,,7.1,
+30462,Micheal,Beck,93000,Product Analytics,,9.8,"Baltimore, Maryland"
+30463,Nicolas,Riley,59000,Partnerships,True,4.6,"Boston, Massachusetts"
+30464,Gustavo,Robertson,62000,Business Development,,2.7,"Dallas, Texas"
+30465,Debra,Waters,94000,Technology,,4.6,"Dallas, Texas"
+30466,Muriel,Sullivan,83000,Technology,,1.6,
+30467,Shannon,Schmidt,83000,Technology,,3,"Dallas, Texas"
+30468,Leslie,Collier,67000,Technology,False,8.6,"Wilton, Connecticut"
+30469,Melanie,Joseph,95000,Technology,True,1.6,"New York, New York"
+30470,Dixie,Warner,76000,Technology,,9.8,
+30471,Edwin,Mcbride,70000,Technology,,7.5,"Dallas, Texas"
+30472,Jose,Chapman,78000,Technology,,8.8,"Tampa, Florida"
+30473,Bonnie,Casey,96000,Technology,,9.7,"Tampa, Florida"
+30474,Sandy,Wilson,74000,Technology,True,6,"Chicago, Illinois"
+30475,Edward,Baldwin,74000,IT & Corporate,False,8.8,"Chicago, Illinois"
+30476,Gerald,Griffith,71000,IT & Corporate,,2.9,
+30477,Candice,Manning,79000,IT & Corporate,,8.6,
+30478,Gerardo,Tran,86000,IT & Corporate,False,5.4,"Tampa, Florida"
+30479,Arlene,Freeman,61000,IT & Corporate,True,1.5,"Tampa, Florida"
+30480,Molly,Swanson,60000,IT & Corporate,,8.5,"Tampa, Florida"
+30481,Meghan,Young,93000,Product Analytics,,7.5,
+30482,Eleanor,Fuller,94000,Marketing Analytics,True,1.1,
+30483,Dave,Quinn,99000,Product Analytics,,3.4,
+30484,Laverne,Dunn,86000,Product Engineering,,0.2,"Chicago, Illinois"
+30485,Veronica,Potter,88000,Product Analytics,True,7.9,
+30486,Kayla,Harris,80000,Marketing Analytics,,7.7,
+30487,Jerry,Jensen,64000,Product Analytics,,2.1,"Tampa, Florida"
+30488,Michael,Cox,86000,Product Analytics,,2.8,"Chicago, Illinois"
+30489,Christian,Gross,89000,Product Analytics,True,1.4,"Pittsburgh, Pennsylvania"
+30490,Olivia,Maxwell,91000,Product Engineering,False,5.9,"Dallas, Texas"
+30491,Jodi,Rogers,65000,Marketing Analytics,False,9.7,
+30492,Dawn,Warren,58000,Business Development,True,4.9,"Tampa, Florida"
+30493,Grant,Carlson,69000,Product Analytics,True,8.8,"Atlanta, Georgia"
+30494,Franklin,Carter,60000,Product Engineering,True,5.6,"Chicago, Illinois"
+30495,Nancy,Murphy,52000,Business Development,True,0.5,"Cincinnati, Ohio"
+30496,Eva,Berry,74000,Product Engineering,,8.2,
+30497,Camille,Sparks,73000,Corporate Strategy,,8.7,"New York, New York"
+30498,Joanna,Nguyen,81000,Marketing Analytics,,6.2,"Tampa, Florida"
+30499,Adrian,Abbott,71000,Product Engineering,False,4.9,
+30500,Dianne,Stanley,72000,Corporate Strategy,True,8.3,
+30501,Yvonne,Bell,86000,Marketing Analytics,True,2,"Dallas, Texas"
+30502,Betsy,Malone,56000,Product Analytics,False,4.4,"Dallas, Texas"
+30503,Renee,Ball,55000,Partnerships,,0.3,"San Luis Obispo, California Area"
+30504,Ron,Baker,67000,Business Development,,1.2,
+30505,Jackie,Walsh,66000,Technology,,5.7,
+30506,Jenna,Barker,57000,Technology,,2.8,
+30507,Kathy,Marshall,54000,Technology,,4.8,"Miami, Florida"
+30508,Ethel,Sims,73000,Technology,,1.2,
+30509,Patsy,Hernandez,98000,Technology,,7.9,
+30510,Naomi,Griffin,72000,Technology,,9.2,"Chicago, Illinois"
+30511,Nicole,Martinez,87000,Technology,True,0.8,"Chicago, Illinois"
+30512,Josefina,Hodges,60000,Technology,False,1.7,
+30513,Erica,Singleton,71000,Technology,,5.2,
+30514,Guadalupe,Graham,99000,Technology,,3.2,"Tampa, Florida"
+30515,Doris,Vargas,78000,IT & Corporate,True,8.7,"Cincinnati, Ohio"
+30516,Constance,Lynch,88000,IT & Corporate,,5.2,"Tampa, Florida"
+30517,Tamara,Jefferson,85000,IT & Corporate,,0.6,
+30518,Suzanne,Powers,59000,IT & Corporate,,2,
+30519,Grady,Williamson,67000,IT & Corporate,,1.2,
+30520,Jessie,Morgan,66000,IT & Corporate,False,8.1,
+30521,Virginia,Valdez,85000,Product Analytics,,8.2,"Dallas, Texas"
+30522,Ollie,Tate,61000,Marketing Analytics,,3.3,"New York, New York"
+30523,Alton,Kennedy,53000,Product Analytics,False,4.9,"Dallas, Texas"
+30524,Marcella,Cannon,78000,Product Engineering,,2.7,"Cincinnati, Ohio"
+30525,Olga,Pena,67000,Product Analytics,,7.8,"Minneapolis, Minnesota"
+30526,Maxine,Stevens,69000,Marketing Analytics,,5.5,"Tampa, Florida"
+30527,Dwayne,Hogan,59000,Product Analytics,True,8.1,"New York, New York"
+30528,Wm,Day,88000,Product Analytics,,4,"Dallas, Texas"
+30529,Morris,Mills,70000,Product Analytics,False,5.3,"Tampa, Florida"
+30530,Mamie,Love,82000,Product Engineering,,9.3,"Chicago, Illinois"
+30531,Jared,Mcbride,51000,Marketing Analytics,,1,"Baltimore, Maryland"
+30532,Nadine,Castillo,77000,Business Development,False,5.1,"New York, New York"
+30533,Annie,Briggs,72000,Product Analytics,,7.2,"Delray Beach, Florida"
+30534,Desiree,Walton,53000,Product Engineering,,7.4,
+30535,Tara,Taylor,86000,Business Development,True,1,"New York, New York"
+30536,Kerry,Baker,81000,Product Engineering,True,9.5,
+30537,Ella,Shelton,57000,Corporate Strategy,,4.2,"Dallas, Texas"
+30538,Jamie,Medina,60000,Marketing Analytics,,5.5,"Baltimore, Maryland"
+30539,Manuel,Moss,82000,Product Engineering,False,0.1,"New York, New York"
+30540,Lindsey,Burke,59000,Corporate Strategy,,0.1,
+30541,Gina,Erickson,89000,Marketing Analytics,,0.5,
+30542,Genevieve,Park,99000,Product Analytics,True,2.4,"Dallas, Texas"
+30543,Ervin,Mcguire,86000,Partnerships,,6,"New York, New York"
+30544,Inez,Collins,82000,Business Development,False,2.4,"Los Angeles, California"
+30545,Darlene,Mitchell,56000,Technology,,2.2,
+30546,Annette,Powell,65000,Technology,True,10,"Chicago, Illinois"
+30547,Candice,Wood,55000,Technology,,7.2,
+30548,Howard,Cortez,88000,Technology,True,5.8,"Bentonville, Arkansas"
+30549,Kristopher,Ryan,93000,Technology,,4.6,"Tampa, Florida"
+30550,Jasmine,Bass,64000,Technology,,0.6,
+30551,Darla,Bishop,95000,Technology,,8.5,
+30552,Della,Patterson,65000,Technology,True,9.3,"Chicago, Illinois"
+30553,Anita,Joseph,89000,Technology,,1.8,"Chicago, Illinois"
+30554,Melanie,Butler,88000,Technology,True,5.3,"Chicago, Illinois"
+30555,Gladys,Pratt,88000,IT & Corporate,,8.7,"Dallas, Texas"
+30556,Guadalupe,Beck,66000,IT & Corporate,True,2.9,"New York, New York"
+30557,Dennis,Bradley,84000,IT & Corporate,,6.7,"Tampa, Florida"
+30558,Lewis,Myers,81000,IT & Corporate,,7.1,"Cincinnati, Ohio"
+30559,Gerardo,Jenkins,94000,IT & Corporate,True,5.9,
+30560,Regina,Jones,94000,IT & Corporate,False,2,
+30561,Lloyd,Willis,53000,Product Analytics,True,2.8,
+30562,Betsy,Mcgee,98000,Marketing Analytics,,7.7,"Baltimore, Maryland"
+30563,Lynn,Hudson,72000,Product Analytics,,3,"Lawrenceville, Georgia"
+30564,Sherry,Barker,77000,Product Engineering,,6.4,"Chicago, Illinois"
+30565,Dominic,Dixon,97000,Product Analytics,,2.5,
+30566,Kristine,Hawkins,79000,Marketing Analytics,True,6.2,"Dallas, Texas"
+30567,Elena,Johnston,86000,Product Analytics,,6.7,"Chicago, Illinois"
+30568,Brandon,Clarke,85000,Product Analytics,,4.9,"Green Bay, Wisconsin"
+30569,Joey,Duncan,82000,Product Analytics,,0.7,"Tampa, Florida"
+30570,Jim,Gibson,65000,Product Engineering,,7.9,
+30571,Brendan,Webb,90000,Marketing Analytics,True,5.8,
+30572,Lamar,Luna,94000,Business Development,,2.8,
+30573,Ross,Jacobs,80000,Product Analytics,,3.2,
+30574,Adrienne,Caldwell,73000,Product Engineering,,9.1,"Chicago, Illinois"
+30575,Irving,Lynch,64000,Business Development,,3.8,
+30576,Hubert,Barber,75000,Product Engineering,,8.2,
+30577,Angel,Daniel,66000,Corporate Strategy,True,1.9,"Chicago, Illinois"
+30578,Jan,Parks,68000,Marketing Analytics,,9,"Dallas, Texas"
+30579,Rickey,Barrett,62000,Product Engineering,,5.6,
+30580,Gretchen,Ferguson,59000,Corporate Strategy,False,1.2,"Dallas, Texas"
+30581,Darrell,West,70000,Marketing Analytics,True,0.6,
+30582,Martha,Elliott,80000,Product Analytics,,0.4,
+30583,Alfonso,Ramos,77000,Partnerships,,5.8,"Dallas, Texas"
+30584,Wallace,Robinson,67000,Business Development,False,9,
+30585,Carmen,Wheeler,81000,Technology,False,5.3,"Tampa, Florida"
+30586,Priscilla,Keller,66000,Technology,,4.5,
+30587,Megan,French,93000,Technology,NO DATA,3.7,"Baltimore, Maryland"
+30588,Miriam,Jefferson,60000,Technology,True,7.7,"Baltimore, Maryland"
+30589,Pedro,Osborne,98000,Technology,True,9.9,
+30590,Julie,Gonzales,52000,Technology,,9.9,"Baltimore, Maryland"
+30591,Sara,Rodriguez,57000,Technology,False,2.9,"Tampa, Florida"
+30592,Brett,Glover,73000,Technology,,0.7,"Dallas, Texas"
+30593,Julio,Poole,62000,Technology,,5.3,"Tampa, Florida"
+30594,Edwin,Welch,69000,Technology,True,1.2,
+30595,Roberta,Allison,82000,IT & Corporate,True,4,
+30596,Keith,Casey,93000,IT & Corporate,False,3.2,
+30597,Jackie,Smith,64000,IT & Corporate,,2.7,"Tampa, Florida"
+30598,Tyrone,Waters,89000,IT & Corporate,,1.7,
+30599,Dustin,Romero,68000,IT & Corporate,False,9.9,
+30600,Timothy,Rogers,94000,IT & Corporate,True,6.9,
+30601,Wilbur,Burton,57000,Product Analytics,,6.5,
+30602,Edna,Griffin,81000,Marketing Analytics,,9.6,"Tampa, Florida"
+30603,Archie,Colon,64000,Product Analytics,False,2.9,
+30604,Brooke,Soto,69000,Product Engineering,False,9.4,
+30605,Domingo,Harper,78000,Product Analytics,True,6.3,"Tampa, Florida"
+30606,Patty,Gregory,69000,Marketing Analytics,,5.8,"New York, New York"
+30607,Gilbert,Richardson,64000,Product Analytics,True,8.9,"Tampa, Florida"
+30608,Wendy,Patrick,91000,Product Analytics,,8.2,
+30609,David,Saunders,58000,Product Analytics,False,2.6,"Tampa, Florida"
+30610,Janet,Goodwin,85000,Product Engineering,,8.7,
+30611,Clarence,Hammond,66000,Marketing Analytics,True,7.6,"Chicago, Illinois"
+30612,Jon,Franklin,89000,Business Development,NO DATA,5.9,"Cincinnati Area, KY"
+30613,Derrick,Floyd,51000,Product Analytics,,6.4,"Dallas, Texas"
+30614,Kathy,Garza,61000,Product Engineering,True,8.9,"Atlanta, Georgia"
+30615,Earnest,Morris,64000,Business Development,,1.2,"Chicago, Illinois"
+30616,Cecil,Garner,62000,Product Engineering,True,7.7,"New York, New York"
+30617,Elsa,Walker,70000,Corporate Strategy,True,1.3,
+30618,Walter,Paul,,Marketing Analytics,,2.6,
+30619,Arthur,Warner,69000,Product Engineering,True,0.4,
+30620,Gerard,Bryan,93000,Corporate Strategy,,0.8,
+30621,Pablo,Thompson,90000,Marketing Analytics,,4.2,"Tampa, Florida"
+30622,Benjamin,Carter,74000,Product Analytics,,9.8,
+30623,Harold,Higgins,97000,Partnerships,True,2.3,"New York, New York"
+30624,Glen,Robbins,77000,Business Development,True,9,"Tampa, Florida"
+30625,Carole,Alvarado,51000,Technology,True,2.2,
+30626,Sandra,Erickson,73000,Technology,False,2.1,"Dallas, Texas"
+30627,Tommie,Bowen,60000,Technology,,9.8,"Chicago, Illinois"
+30628,Larry,Barnett,63000,Technology,,8.9,"Tampa, Florida"
+30629,Shannon,Osborne,98000,Technology,False,1.4,"Los Angeles, California"
+30630,Arlene,Shelton,71000,Technology,False,4.6,"Baltimore, Maryland Area"
+30631,Paulette,Kim,72000,Technology,True,8.2,"Tampa, Florida"
+30632,Loren,Malone,51000,Technology,True,4.4,"Chicago, Illinois"
+30633,Edmund,Williams,69000,Technology,,9,
+30634,Jaime,Pratt,51000,Technology,True,7,"Tampa, Florida"
+30635,Willie,Mendoza,95000,IT & Corporate,,6,"Dallas, Texas"
+30636,Felix,Young,88000,IT & Corporate,,2.7,"Dallas, Texas"
+30637,Lorene,Simmons,91000,IT & Corporate,,8.1,"Dallas, Texas"
+30638,Nadine,Alvarez,97000,IT & Corporate,True,8.4,
+30639,Connie,Henry,76000,IT & Corporate,,3,"New York, New York"
+30640,Craig,Daniel,89000,IT & Corporate,,2.7,
+30641,Roderick,Curry,65000,Product Analytics,,7.6,
+30642,Salvatore,Hudson,94000,Marketing Analytics,True,9,"Tampa, Florida"
+30643,Bradley,Lee,76000,Product Analytics,,3.3,"Chicago, Illinois"
+30644,Erik,Mcguire,87000,Product Engineering,False,3.6,
+30645,Mamie,Phillips,65000,Product Analytics,,3.7,"Tampa, Florida"
+30646,Ira,Mcdaniel,69000,Marketing Analytics,,5.8,
+30647,Glenn,Johnson,96000,Product Analytics,,3.2,"Cincinnati, Ohio"
+30648,Alex,Harvey,82000,Product Analytics,,7.3,
+30649,Kelly,Greer,77000,Product Analytics,True,8.8,
+30650,Alberto,Jensen,69000,Product Engineering,,4.2,
+30651,Mitchell,Peters,51000,Marketing Analytics,,2.8,
+30652,Frederick,Fisher,93000,Business Development,,0.1,"San Francisco, California"
+30653,Verna,Burgess,82000,Product Analytics,,0.3,"Tampa, Florida"
+30654,Moses,Wagner,88000,Product Engineering,False,1.4,"Dallas, Texas"
+30655,Randall,Schwartz,86000,Business Development,False,0.4,"Green Bay, Wisconsin"
+30656,Travis,Rowe,50000,Product Engineering,False,7.5,"Tampa, Florida"
+30657,Merle,Wood,63000,Corporate Strategy,,6.3,"New York, New York"
+30658,Olivia,Jacobs,80000,Marketing Analytics,True,0.3,"Tampa, Florida"
+30659,Martin,Berry,65000,Product Engineering,,0.9,"New York, New York"
+30660,Noel,Kennedy,53000,Corporate Strategy,,6.2,"Green Bay, Wisconsin"
+30661,Claude,Zimmerman,65000,Marketing Analytics,False,2.5,"Baltimore, Maryland"
+30662,Clinton,Roy,75000,Product Analytics,True,5.1,
+30663,Shane,Torres,55000,Partnerships,,6.6,
+30664,Ernestine,Joseph,68000,Business Development,True,2.8,
+30665,Sammy,Herrera,61000,Technology,True,3.6,
+30666,Daniel,Medina,89000,Technology,,2.9,
+30667,Donnie,Gibson,72000,Technology,,7.1,"Dallas, Texas"
+30668,Kelley,Perry,84000,Technology,,10,"Dallas, Texas"
+30669,Lester,Ortiz,97000,Technology,False,10,"Tampa, Florida"
+30670,Lindsey,Rice,56000,Technology,,5,
+30671,Greg,Ramirez,93000,Technology,,1.1,
+30672,Georgia,Valdez,60000,Technology,True,0.6,"Dallas, Texas"
+30673,Roman,Stanley,75000,Technology,True,8.5,"Dallas, Texas"
+30674,Olive,Cook,100000,Technology,,0.9,"Chicago, Illinois"
+30675,Julio,Klein,69000,IT & Corporate,,3.2,"Green Bay, Wisconsin"
+30676,Bradford,Hamilton,84000,IT & Corporate,,2.3,
+30677,Cristina,Miles,62000,IT & Corporate,,4.4,"Dallas, Texas"
+30678,Genevieve,Clayton,96000,IT & Corporate,,3.1,"Green Bay, Wisconsin"
+30679,Willis,Aguilar,87000,IT & Corporate,True,0.4,"Tampa, Florida"
+30680,Helen,Casey,71000,IT & Corporate,,8.2,"San Francisco, California"
+30681,Clayton,White,58000,Product Analytics,,8.3,"Tampa, Florida"
+30682,Jerry,Williamson,81000,Marketing Analytics,,4,"Cincinnati, Ohio"
+30683,Derrick,Dixon,63000,Product Analytics,,3.2,
+30684,Maurice,Nelson,69000,Product Engineering,,7.3,
+30685,Dennis,Walton,75000,Product Analytics,True,0.6,
+30686,Ervin,Floyd,77000,Marketing Analytics,,4.4,
+30687,Charlene,Schneider,87000,Product Analytics,,6,"Chicago, Illinois"
+30688,Elizabeth,Chambers,54000,Product Analytics,True,6.5,"Chicago, Illinois"
+30689,Philip,Gilbert,,Product Analytics,False,9.5,"Tampa, Florida"
+30690,Dana,Robinson,,Product Engineering,,9,
+30691,Patricia,Obrien,54000,Marketing Analytics,,10,"Dallas, Texas"
+30692,Lyle,Reeves,72000,Business Development,,1.5,"Tampa, Florida"
+30693,Gail,Lindsey,88000,Product Analytics,,5.6,"Tampa/St. Petersburg, Florida Area"
+30694,Clarence,Barber,52000,Product Engineering,,9,
+30695,Byron,Todd,53000,Business Development,,2.5,"New York, New York"
+30696,Carolyn,Howell,76000,Product Engineering,True,9,
+30697,Angela,Butler,52000,Corporate Strategy,,1.2,"Tampa, Florida"
+30698,Troy,Reese,85000,Marketing Analytics,False,3.9,"Tampa/St. Petersburg, Florida Area"
+30699,Kirk,Larson,86000,Product Engineering,,4.6,"Tampa, Florida"
+30700,Billie,Boone,70000,Corporate Strategy,True,8.2,
+30701,Francisco,Garner,80000,Marketing Analytics,,5.7,"New York, New York"
+30702,Gerald,Willis,59000,Product Analytics,,1.9,"Tampa, Florida"
+30703,Angel,King,95000,Partnerships,,8.8,"Tampa, Florida"
+30704,Randy,Drake,99000,Business Development,,3.4,
+30705,Charlie,Patrick,62000,Technology,,6.3,"Dallas, Texas"
+30706,Andrew,Norton,87000,Technology,,7,"New York, New York"
+30707,Viola,Simon,78000,Technology,True,0.7,"Baltimore, Maryland"
+30708,Kristy,Terry,60000,Technology,True,3.1,
+30709,Marilyn,Sandoval,96000,Technology,,0.4,"Baltimore, Maryland"
+30710,Alfred,Fuller,63000,Technology,,6.2,"New York, New York"
+30711,Terrell,Cooper,56000,Technology,True,6,"New York, New York"
+30712,Hugh,Vasquez,84000,Technology,False,7.2,
+30713,Antoinette,Roberson,57000,Technology,True,6.9,
+30714,Cody,Schmidt,77000,Technology,False,7.3,"Tampa, Florida"
+30715,Noah,Ramsey,50000,IT & Corporate,True,4.3,
+30716,Roosevelt,Ryan,65000,IT & Corporate,,4,"Tampa, Florida"
+30717,Roberta,Hunt,90000,IT & Corporate,,0.3,"Tampa, Florida"
+30718,Jeannie,Armstrong,65000,IT & Corporate,False,9.6,
+30719,Molly,Holmes,79000,IT & Corporate,True,6.4,"Tampa, Florida"
+30720,Jeanette,Delgado,,IT & Corporate,False,5.8,"Dallas, Texas"
+30721,Heather,Davis,90000,Product Analytics,,7.4,
+30722,Edgar,Matthews,89000,Marketing Analytics,,3.7,"Baltimore, Maryland"
+30723,Lillian,Griffin,81000,Product Analytics,,9.3,"New York, New York"
+30724,Sue,Graham,81000,Product Engineering,,1.8,
+30725,Mildred,Butler,89000,Product Analytics,,4.9,"Chicago, Illinois"
+30726,Monique,Hunter,51000,Marketing Analytics,,6.3,
+30727,Boyd,Oliver,73000,Product Analytics,False,6.1,
+30728,Gary,Padilla,73000,Product Analytics,True,2.6,"Cincinnati, Ohio"
+30729,Beverly,Hicks,61000,Product Analytics,,8.1,"Dallas, Texas"
+30730,Cesar,Ford,94000,Product Engineering,True,9,"Baltimore, Maryland"
+30731,Harriet,Williams,80000,Marketing Analytics,,6.9,"Chicago, Illinois"
+30732,Roy,Poole,71000,Business Development,,5.4,"Baltimore, Maryland"
+30733,Joy,Miles,54000,Product Analytics,False,3.7,"New York, New York"
+30734,Greg,Haynes,90000,Product Engineering,True,1.8,
+30735,Bernadette,Obrien,64000,Business Development,,9.6,"New York, New York"
+30736,Marie,Fisher,81000,Product Engineering,,5.7,
+30737,Frank,Clark,50000,Corporate Strategy,True,4.4,
+30738,Erika,Lyons,71000,Marketing Analytics,,7.2,"Dallas, Texas"
+30739,Cecil,Walton,95000,Product Engineering,,3,
+30740,Eddie,Crawford,96000,Corporate Strategy,,4.8,
+30741,Marvin,Schmidt,98000,Marketing Analytics,,6.9,"New York, New York"
+30742,Glen,Morton,50000,Product Analytics,False,6,"Dallas, Texas"
+30743,Roderick,Alvarez,55000,Partnerships,,7.3,"Cincinnati Area, KY"
+30744,Kellie,Lloyd,85000,Business Development,,6.6,"Tampa, Florida"
+30745,Gustavo,Garcia,65000,Technology,,3.9,
+30746,Donald,Burns,98000,Technology,True,8.6,"New York, New York"
+30747,Rodolfo,Valdez,90000,Technology,,9.8,
+30748,Joanne,Russell,79000,Technology,False,8.1,"New York, New York"
+30749,Carole,Adams,100000,Technology,False,9.5,"Tampa, Florida"
+30750,Mabel,Cummings,76000,Technology,,0.4,"Chicago, Illinois"
+30751,Ervin,Gregory,72000,Technology,,0.3,"San Francisco, California"
+30752,Shannon,Copeland,55000,Technology,True,5,"New York, New York"
+30753,Candace,Campbell,96000,Technology,,2.6,
+30754,Rosemary,Brown,85000,Technology,True,2.7,"Tampa, Florida"
+30755,Olga,Kennedy,75000,IT & Corporate,,2.7,"New York, New York"
+30756,Douglas,Santiago,78000,IT & Corporate,,3.1,"Baltimore, Maryland"
+30757,Kate,Norman,51000,IT & Corporate,True,2.3,
+30758,Colleen,Blake,89000,IT & Corporate,False,0.9,"New York, New York"
+30759,Clayton,Alvarado,64000,IT & Corporate,True,7.9,"Tampa, Florida"
+30760,Beulah,Potter,86000,IT & Corporate,True,3.4,
+30761,Luke,Webb,74000,Product Analytics,,2.4,
+30762,Corey,Ramsey,90000,Marketing Analytics,,3.3,"New York, New York"
+30763,Alfred,Tate,87000,Product Analytics,True,2.6,
+30764,Zachary,Pratt,69000,Product Engineering,True,9.2,"Dallas, Texas"
+30765,Sandy,Hopkins,81000,Product Analytics,,2.4,"Tampa, Florida"
+30766,Jeremy,Price,72000,Marketing Analytics,True,6.4,
+30767,Jeannie,Jordan,74000,Product Analytics,,6.8,"Dallas, Texas"
+30768,Hugo,Harmon,50000,Product Analytics,False,3.8,"Dallas, Texas"
+30769,Sergio,Casey,73000,Product Analytics,False,2.4,"Dallas, Texas"
+30770,Nancy,Osborne,57000,Product Engineering,True,6.5,"Tampa, Florida"
+30771,Andrea,Rodriquez,53000,Marketing Analytics,,6.9,
+30772,Alexis,Guerrero,90000,Business Development,,4.4,
+30773,Gilberto,Taylor,95000,Product Analytics,False,6.5,
+30774,Alejandro,Blair,87000,Product Engineering,,6.1,"Tampa, Florida"
+30775,Misty,Evans,92000,Business Development,,6.8,"Tampa, Florida"
+30776,Tim,Rhodes,76000,Product Engineering,False,8.6,
+30777,Brooke,Aguilar,,Corporate Strategy,,6.9,
+30778,Tracy,Boone,98000,Marketing Analytics,False,4.9,
+30779,Rachael,Mccoy,52000,Product Engineering,,8.3,
+30780,Elizabeth,Tucker,65000,Corporate Strategy,,8.9,"Dallas, Texas"
+30781,Gwen,Romero,97000,Marketing Analytics,True,8.9,"Chicago, Illinois"
+30782,Lewis,Page,87000,Product Analytics,,9.7,
+30783,Sandra,Young,80000,Partnerships,,6.1,
+30784,Alton,Ballard,76000,Business Development,True,7.8,"Chicago, Illinois"
+30785,Ellen,Swanson,68000,Technology,True,0.4,"Tampa, Florida"
+30786,Kristine,Ramos,70000,Technology,False,7.8,
+30787,George,Brooks,,Technology,,5.3,"Rochester, New York"
+30788,Kristi,Henry,86000,Technology,,7.7,"Green Bay, Wisconsin"
+30789,Ellis,Bowers,87000,Technology,True,9.2,"Dallas, Texas"
+30790,Gregg,Watson,99000,Technology,,7.6,"Boston, Massachusetts"
+30791,Herman,Chavez,65000,Technology,,7.3,"Tampa, Florida"
+30792,Angelina,Reid,55000,Technology,True,3.2,"New York, New York"
+30793,Raymond,Erickson,96000,Technology,False,5.2,"Tampa, Florida"
+30794,Clarence,Roberts,65000,Technology,True,7.5,"Tampa, Florida"
+30795,Wade,Miller,99000,IT & Corporate,,6.9,"Los Angeles, California"
+30796,Amanda,Colon,61000,IT & Corporate,True,5.9,"Dallas, Texas"
+30797,Stephen,Munoz,78000,IT & Corporate,True,9.1,
+30798,Frankie,Watts,52000,IT & Corporate,,3.1,
+30799,Dwayne,Stephens,97000,IT & Corporate,True,4.8,"Tampa, Florida"
+30800,Louise,Lindsey,54000,IT & Corporate,,0.4,"Dallas, Texas"
+30801,Hugh,Wheeler,95000,Product Analytics,False,3.3,"Tampa, Florida"
+30802,Darnell,Stanley,93000,Marketing Analytics,,7.7,"Chicago, Illinois"
+30803,Calvin,Morrison,99000,Product Analytics,False,3.2,
+30804,Sophie,Nelson,61000,Product Engineering,,2,
+30805,Traci,Matthews,67000,Product Analytics,True,1.2,"Tampa, Florida"
+30806,Pete,Morales,91000,Marketing Analytics,,4.2,
+30807,Israel,Douglas,60000,Product Analytics,,5.7,
+30808,Dennis,Walker,53000,Product Analytics,,6.8,"New York, New York"
+30809,Kim,Bell,54000,Product Analytics,True,4.2,
+30810,Steve,Duncan,86000,Product Engineering,,9.6,
+30811,Travis,Snyder,80000,Marketing Analytics,False,8.7,"Dallas, Texas"
+30812,May,Cruz,59000,Business Development,True,4.2,"Tampa, Florida"
+30813,Ernestine,Abbott,92000,Product Analytics,,0.3,
+30814,Santos,Gardner,72000,Product Engineering,,5.6,"New York, New York"
+30815,Vicky,Perkins,74000,Business Development,,8.8,
+30816,Ricky,Dean,60000,Product Engineering,False,4.2,
+30817,Phillip,Cain,91000,Corporate Strategy,False,8.1,"Tampa, Florida"
+30818,Agnes,Cannon,85000,Marketing Analytics,False,1.3,"San Diego, California"
+30819,Chris,Curtis,65000,Product Engineering,,0.3,"New York, New York"
+30820,Flora,Bennett,89000,Corporate Strategy,True,6.1,
+30821,Allan,Martin,56000,Marketing Analytics,,3.7,"Baltimore, Maryland"
+30822,Lena,Rowe,99000,Product Analytics,,2.7,
+30823,Myra,Mcgee,68000,Partnerships,,5.1,
+30824,Stacy,Frazier,100000,Business Development,,2.3,"Tampa, Florida"
+30825,Darin,Sparks,67000,Technology,,4.4,"San Francisco, California"
+30826,Chris,Washington,68000,Technology,False,3.7,
+30827,Levi,Caldwell,53000,Technology,True,2.4,"New York, New York"
+30828,Tim,Bennett,56000,Technology,True,2.6,
+30829,Delia,Allen,76000,Technology,False,9.2,
+30830,Cary,Dixon,64000,Technology,,9,"Tampa, Florida"
+30831,Gregory,Kim,50000,Technology,NO DATA,6.9,"Tampa, Florida"
+30832,Emily,Carroll,52000,Technology,,2.6,
+30833,Noel,Graham,60000,Technology,True,5.5,
+30834,Melba,Cohen,96000,Technology,False,5.9,
+30835,Alfredo,Fernandez,80000,IT & Corporate,NO DATA,5.5,"Dallas, Texas"
+30836,Reginald,Andrews,83000,IT & Corporate,True,6.7,
+30837,Kay,Rice,63000,IT & Corporate,False,2.3,"New York, New York"
+30838,Alex,Houston,71000,IT & Corporate,NO DATA,7.3,"Chicago, Illinois"
+30839,Wendy,Lucas,79000,IT & Corporate,,7.4,
+30840,Stewart,Love,84000,IT & Corporate,,8,"Chicago, Illinois"
+30841,Mona,Guerrero,74000,Product Analytics,False,5.5,"Bentonville, Arkansas"
+30842,Courtney,Abbott,59000,Marketing Analytics,,4.5,"Tampa, Florida"
+30843,Guillermo,Freeman,84000,Product Analytics,True,5.6,"Tampa, Florida"
+30844,Jeannie,Jenkins,84000,Product Engineering,,0.8,
+30845,Leland,Carr,92000,Product Analytics,,5.5,
+30846,Derrick,Paul,87000,Marketing Analytics,,6.7,
+30847,Mark,Cannon,52000,Product Analytics,,9.2,
+30848,Loren,Moran,97000,Product Analytics,,5.5,"Tampa, Florida"
+30849,Lyle,King,62000,Product Analytics,,1.8,"Dallas, Texas"
+30850,Eleanor,Gardner,55000,Product Engineering,,0.9,
+30851,Belinda,Watts,90000,Marketing Analytics,False,5.2,"Rochester, New York Area"
+30852,Ivan,Horton,94000,Business Development,,7.3,
+30853,Marion,Guzman,66000,Product Analytics,,10,"Tampa, Florida"
+30854,Julia,Valdez,76000,Product Engineering,False,7.7,"Tampa, Florida"
+30855,Edna,Maxwell,57000,Business Development,,3.8,"Chicago, Illinois"
+30856,Michele,Sims,93000,Product Engineering,,8.7,"Tampa, Florida"
+30857,Muriel,Sutton,82000,Corporate Strategy,,0.1,
+30858,Maxine,Jennings,95000,Marketing Analytics,True,1.7,
+30859,Vernon,Mann,69000,Product Engineering,,3.4,
+30860,Terrence,Cook,92000,Corporate Strategy,,7.8,
+30861,Jim,Howell,71000,Marketing Analytics,,5.6,
+30862,Myron,Adkins,57000,Product Analytics,True,9,"Tampa/St. Petersburg, Florida Area"
+30863,Patricia,Malone,91000,Partnerships,,4.5,"Chicago, Illinois"
+30864,Kristi,Nash,83000,Business Development,False,3.7,
+30865,Lindsay,Quinn,51000,Technology,,8.2,
+30866,Brett,Aguilar,100000,Technology,True,1,
+30867,Marcella,Davis,59000,Technology,,5.8,"New York, New York"
+30868,Harry,Francis,79000,Technology,,5.5,"Chicago, Illinois"
+30869,Winifred,Simon,98000,Technology,True,4.8,"Tampa, Florida"
+30870,Henrietta,Ryan,50000,Technology,False,4.7,
+30871,Lionel,Keller,64000,Technology,,1.7,
+30872,Kristin,Singleton,80000,Technology,,8.1,"Chicago, Illinois"
+30873,Joyce,Poole,54000,Technology,NO DATA,0.2,
+30874,Rebecca,Sharp,51000,Technology,True,0.4,
+30875,Sadie,Banks,82000,IT & Corporate,True,9.4,"New York, New York"
+30876,Howard,Hicks,97000,IT & Corporate,,2.6,"Dallas, Texas"
+30877,Simon,Hanson,91000,IT & Corporate,True,7.5,
+30878,Rosemary,Carpenter,61000,IT & Corporate,False,6.6,"Dallas, Texas"
+30879,Tracy,Summers,81000,IT & Corporate,True,8,
+30880,Hazel,Delgado,89000,IT & Corporate,,6.7,
+30881,Sue,Howard,82000,Product Analytics,True,1.4,"New York, New York"
+30882,Holly,Olson,96000,Marketing Analytics,False,4.9,"Chicago, Illinois"
+30883,Jeremy,Brown,74000,Product Analytics,,8.2,
+30884,Abel,Dunn,100000,Product Engineering,True,7.4,"Dallas, Texas"
+30885,Ethel,Fuller,74000,Product Analytics,True,7.6,
+30886,Elizabeth,Cobb,78000,Marketing Analytics,,8.9,"Minneapolis, Minnesota"
+30887,Kelly,Mcbride,52000,Product Analytics,True,2.4,"New York, New York"
+30888,Cassandra,Pena,50000,Product Analytics,True,2.2,
+30889,Sam,Campbell,92000,Product Analytics,,0.6,"Chicago, Illinois"
+30890,Oliver,Kelly,81000,Product Engineering,,0.4,
+30891,Arturo,Thompson,74000,Marketing Analytics,,0.5,"Dallas, Texas"
+30892,Christina,Crawford,57000,Business Development,True,1.1,"Tampa, Florida"
+30893,Rochelle,Parks,73000,Product Analytics,False,9.2,
+30894,Fredrick,Jordan,66000,Product Engineering,False,3.7,"Tampa, Florida"
+30895,Alice,Barker,51000,Business Development,,6.8,"New York, New York"
+30896,Della,Bush,92000,Product Engineering,True,0.4,
+30897,Bridget,Rose,59000,Corporate Strategy,,8.8,"Chicago, Illinois"
+30898,Chad,Cox,55000,Marketing Analytics,True,3.2,"New York, New York"
+30899,Vanessa,Mason,60000,Product Engineering,,8.2,
+30900,Enrique,Gill,81000,Corporate Strategy,True,2.9,
+30901,Rosie,Ward,87000,Marketing Analytics,,9.1,"Dallas, Texas"
+30902,Dianne,Russell,89000,Product Analytics,True,0.3,
+30903,Myrtle,Palmer,69000,Partnerships,NO DATA,7.5,
+30904,Nellie,Nguyen,86000,Business Development,True,6.1,"Tampa, Florida"
+30905,Lydia,Collins,57000,Technology,True,9.9,"Tampa, Florida"
+30906,Sylvia,Mullins,58000,Technology,True,6.5,"Green Bay, Wisconsin"
+30907,Marc,Copeland,98000,Technology,,3.6,
+30908,Kenny,Jimenez,99000,Technology,,7.5,"New York, New York"
+30909,Mary,Underwood,67000,Technology,,8.2,"Tampa, Florida"
+30910,Kristina,Mcdaniel,55000,Technology,,4.8,
+30911,Jessie,Vargas,98000,Technology,,7.9,"Dallas, Texas"
+30912,Vickie,Hudson,93000,Technology,False,7.5,"Cincinnati, Ohio"
+30913,Nichole,Farmer,57000,Technology,True,6.6,"New York, New York"
+30914,Dora,Ross,84000,Technology,False,2.5,"New York, New York"
+30915,Ralph,Ball,90000,IT & Corporate,,1.4,"Boston, Massachusetts"
+30916,Willie,Matthews,73000,IT & Corporate,False,6.6,"New York, New York"
+30917,Carlos,Jacobs,75000,IT & Corporate,True,3.1,"New York, New York"
+30918,Bruce,Barnes,79000,IT & Corporate,True,6.2,"Los Angeles, California"
+30919,Claire,Harmon,57000,IT & Corporate,True,2.1,
+30920,Stuart,Obrien,84000,IT & Corporate,,8.1,"Dallas, Texas"
+30921,Gwen,Watkins,85000,Product Analytics,,6.6,
+30922,Garry,Clarke,55000,Marketing Analytics,,1.5,"New York, New York"
+30923,Bryan,Estrada,100000,Product Analytics,True,9.6,
+30924,Spencer,Patton,93000,Product Engineering,True,3.6,
