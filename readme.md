@@ -1,5 +1,7 @@
 # Instructions
 
+virtualenv twine_challenge
+
 source activate twine_challenge
 
 pip install -r requirements.txt
