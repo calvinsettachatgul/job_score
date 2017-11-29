@@ -38,10 +38,16 @@ def get_salary_score(employee_list, job_list):
         return diff_mid / (job_salary_max- job_salary_min)
     
 def get_salary_risk(employee_list):
-    return employee_list[5]
+    if (employee_list[5] == ''):
+        return 0
+    else:
+        return employee_list[5]
 
 def get_salary_priority(job_list):
-    return job_list[6]
+    if(job_list[6] == ''):
+        return 0
+    else:
+        return job_list[6]
 
 def get_score(employee_list, job_list):
     return get_salary_score(employee_list, job_list) * get_salary_risk(employee_list) * get_salary_priority(job_list)
@@ -52,7 +58,13 @@ def index():
     job_csv_url = "https://s3.amazonaws.com/twine-labs-misc-data/recruiting/jobs.csv"
     store_csv(job_csv_url, all_jobs)
     store_csv(employee_csv_url, all_employees)
-    print(all_employees)
-    print(all_jobs)
+    # print(all_employees)
+    # print(all_jobs)
+    print("execute get salary")
     print(get_salary_score(all_employees[1], all_jobs[1]))
     return 'Hello, World'
+
+@app.route('/employee/<employee_id>/limit/<limit_num>')
+def print_employee(employee_id=None, limit_num=None):
+    print(employee_id)
+    print(limit_num)
