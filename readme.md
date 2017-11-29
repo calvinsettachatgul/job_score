@@ -1,7 +1,9 @@
 # Instructions
 
 export FLASK_APP=twin_calvin.py
+
 pip install -r requirements.txt
+
 flask run
 
 # Improvements
