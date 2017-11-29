@@ -68,3 +68,10 @@ def index():
 def print_employee(employee_id=None, limit_num=None):
     print(employee_id)
     print(limit_num)
+    return "employee_id " + employee_id + " limit_num " + limit_num
+
+@app.route('/job/<job_id>/limit/<limit_num>')
+def print_job(job_id=None, limit_num=None):
+    print(job_id)
+    print(limit_num)
+    return "job_id " + job_id + " limit_num " + limit_num
