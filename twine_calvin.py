@@ -62,7 +62,7 @@ def index():
     # print(all_jobs)
     print("execute get salary")
     print(get_salary_score(all_employees[1], all_jobs[1]))
-    return 'Hello, World'
+    return 'Twine Employee Job Score'
 
 @app.route('/employee/<employee_id>/limit/<limit_num>')
 def print_employee(employee_id=None, limit_num=None):
