@@ -6,6 +6,8 @@ app = Flask(__name__)
 
 all_jobs = []
 all_employees = []
+all_employee_dict = {}
+all_jobs_dict = {}
 
 def print_csv(csv_url):
     with requests.Session() as s:
@@ -52,6 +54,12 @@ def get_salary_priority(job_list):
 def get_score(employee_list, job_list):
     return get_salary_score(employee_list, job_list) * get_salary_risk(employee_list) * get_salary_priority(job_list)
 
+def create_employee_dict():
+    employee_csv_url = "https://s3.amazonaws.com/twine-labs-misc-data/recruiting/employees.csv"
+    store_csv(employee_csv_url, all_employees)
+    for employee in all_employees:
+        all_employee_dict[employee[0]] = employee
+
 @app.route('/')
 def index():
     employee_csv_url = "https://s3.amazonaws.com/twine-labs-misc-data/recruiting/employees.csv"
@@ -68,7 +76,10 @@ def index():
 def print_employee(employee_id=None, limit_num=None):
     print(employee_id)
     print(limit_num)
-    return "employee_id " + employee_id + " limit_num " + limit_num
+    create_employee_dict()
+    # print(all_employee_dict)
+    print(all_employee_dict[employee_id]) 
+    return ' '.join(all_employee_dict[employee_id])
 
 @app.route('/job/<job_id>/limit/<limit_num>')
 def print_job(job_id=None, limit_num=None):

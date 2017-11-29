@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/calvins/Documents/interview_challenges/twine_112917/twine_challenge"
+VIRTUAL_ENV="/Users/calvins/Documents/interview_challenges/twine_112917/job_score/twine_challenge"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

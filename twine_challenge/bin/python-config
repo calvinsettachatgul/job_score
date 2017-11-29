@@ -1,4 +1,4 @@
-#!/Users/calvins/Documents/interview_challenges/twine_112917/twine_challenge/bin/python
+#!/Users/calvins/Documents/interview_challenges/twine_112917/job_score/twine_challenge/bin/python
 
 import sys
 import getopt

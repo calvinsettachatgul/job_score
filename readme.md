@@ -1,8 +1,10 @@
 # Instructions
 
-export FLASK_APP=twine_calvin.py
+source activate twine_challenge
 
 pip install -r requirements.txt
+
+export FLASK_APP=twine_calvin.py
 
 flask run
 
